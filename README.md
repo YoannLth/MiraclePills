@@ -3,8 +3,8 @@ iOS 10 app as part of a Udemy tutorial.
 Single view app with a basic form (labels, text fields, picker, images and button) that show a confirmation message on "Buy now" button pressed.
 
 ## Screenshots
-![alt text](home.png)
-![alt text](success.png)
+![alt text](Screenshots/home.png)
+![alt text](Screenshots/success.png)
 
 ## Learning goals
 * Xcode interface builder basics
