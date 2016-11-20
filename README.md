@@ -4,7 +4,7 @@ Single view app with a basic form (labels, text fields, picker, images and butto
 
 ## Screenshots
 ![a](https://github.com/YoannLth/MiraclePills/blob/master/Screenshots/home.PNG?raw=true)
-![b](Screenshots/success.png?raw=true)
+![b](/Screenshots/success.png?raw=true)
 
 ## Learning goals
 * Xcode interface builder basics
